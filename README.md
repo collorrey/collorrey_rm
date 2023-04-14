@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @f4thh
+- 👋 Hi, I’m @collorrey
 - 👀 I’m interested in f1, active sports and travels!
-- 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate on smth intresting!
+- 🌱 Currently learning at uni, 2 year, trying to become a nice one PM.
 - 📫 How to reach me {
-        ig: 4th only
+        ig,tg: collorrey
 }
 
 <!---
